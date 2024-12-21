@@ -1,0 +1,1 @@
+This repository contains a demonstration of an uncommon bug in PHP where a function unexpectedly returns null when one of its arguments is null. The bug is present in the `foo` function. The solution provides an improved version that handles null arguments gracefully. 
